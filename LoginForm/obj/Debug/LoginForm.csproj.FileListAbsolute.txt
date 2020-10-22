@@ -1,0 +1,23 @@
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.frLogIn.resources
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.Main_Form.resources
+C:\Users\User\Desktop\5555\LoginForm\LoginForm\obj\Debug\LoginForm.SignUp_Form.resources
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.Main_Form.resources
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.frLogIn.resources
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.SignUp_Form.resources
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\G713\Login form\LoginForm\LoginForm\obj\Debug\LoginForm.FormChangePassword.resources
